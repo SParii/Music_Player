@@ -667,3 +667,4 @@ loop2=ImageTk.PhotoImage(image)
 window = music(master=root)
 
 window.mainloop()
+#trying smtng
